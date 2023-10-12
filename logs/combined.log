@@ -1,0 +1,6 @@
+{"level":"info","message":"This is an informational message.","timestamp":"2023-10-12T20:34:17.967Z"}
+{"level":"warn","message":"This is a warning message.","timestamp":"2023-10-12T20:34:17.977Z"}
+{"level":"error","message":"This is an error message.","timestamp":"2023-10-12T20:34:17.978Z"}
+{"level":"info","message":"This is another informational message.","timestamp":"2023-10-12T20:34:17.979Z"}
+{"level":"warn","message":"This is another warning message.","timestamp":"2023-10-12T20:34:17.980Z"}
+{"level":"error","message":"This is another error message.","timestamp":"2023-10-12T20:34:17.981Z"}
